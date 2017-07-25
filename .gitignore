@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#others
+*.p
+*.md
+*.meta
+*.index
+*.data-*
+*.floydignore
+*.txt
+cifar-10-batches-py/
+*.bat
+*.tar.gz
